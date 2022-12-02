@@ -1,24 +1,8 @@
 # Wallet finance app
 
-**Kutsyi Mykhailo** - _Team Lead_
-
-**Bohdan Shparuk** - _Scrum master_
-
-#### _Frontend:_
-
-- **Yevheniia Dolzhykova**
-- **Akim Grakovskiy**
-- **Andriy Lesyk**
-- **Pavel Sarabieiev**
-
-#### _Backend:_
-
-- **Bohdan Vozniak**
-- **Alex Krasnobokyi**
-
 ### Live
 
-`<link>` : <https://wallet-finance-app-team-project.netlify.app/>
+`<link>` : <https://638a3cb8ccd5de53dc019317--mellifluous-pothos-9f5e00.netlify.app/>
 
 #### Frontend repo
 
