@@ -3,7 +3,7 @@ import { createAsyncThunk } from '@reduxjs/toolkit';
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-axios.defaults.baseURL = 'https://wallet-backend-app-api.herokuapp.com/';
+axios.defaults.baseURL = 'https://wallet-40fe.onrender.com/';
 
 const token = {
   set(token) {
