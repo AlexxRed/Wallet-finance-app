@@ -28,4 +28,4 @@ npm start
 
 Ukraine
 
-**Free Software, Hell Yeah!**
+**Free Software!**
